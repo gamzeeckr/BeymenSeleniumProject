@@ -1,0 +1,433 @@
+2021-12-31 17:57:46,603 ERROR [Log] control_homePage_account_favorites_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55320}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 09ef776a72acfa21457c4c144c3308cc
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-31 17:57:46,953 INFO  [Log] search_a_product()PASSED 
+2021-12-31 17:57:48,832 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 17:57:50,902 INFO  [Log] select_a_product()PASSED 
+2021-12-31 17:57:51,145 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 17:57:52,591 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55320}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 09ef776a72acfa21457c4c144c3308cc
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:10:19,073 ERROR [Log] control_homePage_account_favorites_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 399a535fbd3930c5c2f9c465c0f6ea1c
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-31 18:10:19,430 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:10:21,482 ERROR [Log] scroll_Down()FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 399a535fbd3930c5c2f9c465c0f6ea1c 
+2021-12-31 18:10:23,731 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:10:23,873 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:10:25,145 ERROR [Log] go_to_cart()FAILED with cause : element click intercepted: Element <a href="/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1307, 12). Other element would receive the click: <label class="m-form__label m-variation__label hasError">...</label>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 399a535fbd3930c5c2f9c465c0f6ea1c 
+2021-12-31 18:19:39,845 ERROR [Log] control_homePage_account_favorites_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dfa6440e6cb882da0eb322884ae5c4a1
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-31 18:19:40,132 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:19:42,802 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:19:45,129 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:19:45,293 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:19:46,640 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dfa6440e6cb882da0eb322884ae5c4a1
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:20:22,149 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:20:22,371 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:20:24,497 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:20:26,700 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:20:26,902 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:20:27,114 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56332}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 524048da7c643659390dce316c423cad
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:20:59,531 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:20:59,704 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:21:01,763 ERROR [Log] scroll_Down()FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 29fc3367e7982e225dd3d4380e83a0f6 
+2021-12-31 18:21:04,148 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:21:04,333 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:21:05,483 ERROR [Log] go_to_cart()FAILED with cause : element click intercepted: Element <a href="/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1307, 12). Other element would receive the click: <label class="m-form__label m-variation__label hasError">...</label>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56461}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 29fc3367e7982e225dd3d4380e83a0f6 
+2021-12-31 18:22:06,335 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:22:06,864 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:22:09,371 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:22:09,735 ERROR [Log] select_a_product()FAILED with cause : Index 42 out of bounds for length 30 
+2021-12-31 18:22:09,853 ERROR [Log] add_product_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56778}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c69ad4fe3620d6396f1852e583ee6910
+*** Element info: {Using=id, value=addBasket} 
+2021-12-31 18:22:11,406 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56778}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c69ad4fe3620d6396f1852e583ee6910
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:23:10,849 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:23:11,106 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:23:13,457 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:23:15,403 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:23:15,539 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:23:17,354 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57174}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 557d8e274498a3189693a795bc43626f
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:25:14,448 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:25:14,713 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:25:18,225 ERROR [Log] scroll_Down()FAILED with cause : element click intercepted: Element <button id="moreContentButton" class="o-productMoreContent__btn btn">...</button> is not clickable at point (759, 680). Other element would receive the click: <div id="navbar-overlay" class="-active"></div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6728151af38cadfeb29a86be52b7a50e 
+2021-12-31 18:25:19,371 ERROR [Log] select_a_product()FAILED with cause : element click intercepted: Element <div data-page="1" class="col-sm-4 col-md-4 col-lg-4 o-productList__itemWrapper">...</div> is not clickable at point (758, 326). Other element would receive the click: <div id="navbar-overlay" class="-active"></div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6728151af38cadfeb29a86be52b7a50e 
+2021-12-31 18:25:19,391 ERROR [Log] add_product_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6728151af38cadfeb29a86be52b7a50e
+*** Element info: {Using=id, value=addBasket} 
+2021-12-31 18:25:21,184 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6728151af38cadfeb29a86be52b7a50e
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:29:45,355 ERROR [Log] control_homePage_account_favorites_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1504452b8491961a644871ee1ea777d2
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-31 18:29:49,459 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:29:49,519 ERROR [Log] scroll_Down()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#moreContentButton"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1504452b8491961a644871ee1ea777d2
+*** Element info: {Using=id, value=moreContentButton} 
+2021-12-31 18:29:49,561 ERROR [Log] select_a_product()FAILED with cause : bound must be positive 
+2021-12-31 18:29:49,579 ERROR [Log] add_product_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#addBasket"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1504452b8491961a644871ee1ea777d2
+*** Element info: {Using=id, value=addBasket} 
+2021-12-31 18:29:54,087 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58404}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1504452b8491961a644871ee1ea777d2
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:31:09,864 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:31:15,077 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:31:20,325 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:31:22,264 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:31:22,433 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:31:24,286 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6c4d54e3c8be34568227332778bb7cd3
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 18:46:54,504 ERROR [Log] control_homePage_account_favorites_cart()FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#onetrust\-accept\-btn\-handler"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a2a79ebdac8994c877ac942a14a14a17
+*** Element info: {Using=id, value=onetrust-accept-btn-handler} 
+2021-12-31 18:46:59,825 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:47:05,077 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:47:12,457 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:47:17,669 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:47:24,239 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a2a79ebdac8994c877ac942a14a14a17
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 18:53:58,040 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:54:03,275 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:54:08,576 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:54:15,742 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:54:20,961 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 18:54:27,472 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60333}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 001f19aca4b0bac9fbb297e1e28b16ea
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 18:59:31,333 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 18:59:36,565 INFO  [Log] search_a_product()PASSED 
+2021-12-31 18:59:41,870 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 18:59:49,011 INFO  [Log] select_a_product()PASSED 
+2021-12-31 18:59:54,197 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:00:00,807 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b11a837640d25483e1713e908e36ce08
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 19:01:18,789 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:01:55,019 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:02:00,266 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:02:05,540 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:02:12,553 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:02:17,779 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:02:24,418 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cbfe3fab47b15322069d070365a1be8f
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 19:06:49,832 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:06:55,062 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:07:00,392 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:07:07,224 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:07:12,486 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:07:18,725 ERROR [Log] go_to_cart()FAILED with cause : Count of product is not two in the cart ==> expected: <true> but was: <false> 
+2021-12-31 19:11:08,324 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:11:13,543 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:11:18,824 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:11:26,229 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:11:26,275 ERROR [Log] add_product_to_cart()FAILED with cause : bound must be positive 
+2021-12-31 19:11:32,450 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62932}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8263229ba028ae8e22a1535084f786e
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 19:31:08,749 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:31:13,930 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:31:19,184 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:31:27,281 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:31:32,547 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:31:39,238 ERROR [Log] go_to_cart()FAILED with cause : For input string: "2 adet" 
+2021-12-31 19:37:14,311 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:37:19,520 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:37:24,805 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:37:32,120 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:37:37,366 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:37:49,295 INFO  [Log] go_to_cart()PASSED 
+2021-12-31 19:50:52,600 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:50:57,821 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:51:03,074 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:51:09,895 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:51:15,154 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:51:22,135 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//option[@value='2']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50901}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c01aed600cd878b7e17d37251a91eea
+*** Element info: {Using=xpath, value=//option[@value='2']} 
+2021-12-31 19:55:02,972 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 19:55:08,172 INFO  [Log] search_a_product()PASSED 
+2021-12-31 19:55:13,488 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 19:55:20,321 INFO  [Log] select_a_product()PASSED 
+2021-12-31 19:55:25,556 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 19:55:31,929 ERROR [Log] go_to_cart()FAILED with cause : For input string: "2 adet" 
+2021-12-31 20:01:02,603 ERROR [Log] go_to_cart()FAILED with cause : Cannot invoke "ProductDetailPage.goToCart()" because "this.productDetailPage" is null 
+2021-12-31 20:05:40,440 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:05:43,622 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:05:46,728 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 20:05:49,881 INFO  [Log] show_More()PASSED 
+2021-12-31 20:05:55,211 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:05:58,460 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:06:03,553 ERROR [Log] go_to_cart()FAILED with cause : For input string: "2 adet" 
+2021-12-31 20:12:50,455 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:12:53,626 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:12:56,653 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 20:12:57,793 ERROR [Log] show_More()FAILED with cause : element click intercepted: Element <button id="moreContentButton" class="o-productMoreContent__btn btn">...</button> is not clickable at point (759, 28). Other element would receive the click: <div class="o-productList__top">...</div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52719}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9886ac2d4daa066b0494fb232ac33164 
+2021-12-31 20:13:02,513 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:13:05,742 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:13:10,248 ERROR [Log] go_to_cart()FAILED with cause : For input string: "2 adet" 
+2021-12-31 20:14:37,700 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:14:40,918 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:14:43,980 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 20:14:45,073 ERROR [Log] show_More()FAILED with cause : element click intercepted: Element <button id="moreContentButton" class="o-productMoreContent__btn btn">...</button> is not clickable at point (759, 28). Other element would receive the click: <div class="o-productList__top">...</div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4cc6c0a21702a30017a0bb39df6721b5 
+2021-12-31 20:14:50,029 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:14:53,279 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:14:57,738 ERROR [Log] go_to_cart()FAILED with cause : For input string: "2 adet" 
+2021-12-31 20:21:32,355 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:21:35,528 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:21:38,548 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 20:21:39,639 ERROR [Log] show_More()FAILED with cause : element click intercepted: Element <button id="moreContentButton" class="o-productMoreContent__btn btn">...</button> is not clickable at point (759, 28). Other element would receive the click: <div class="o-productList__top">...</div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a59a42f34cc3daf503c3fe57ab95014 
+2021-12-31 20:21:44,372 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:21:47,601 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:21:52,829 ERROR [Log] go_to_cart()FAILED with cause : Count of product is not two in the cart ==> expected: <true> but was: <false> 
+2021-12-31 20:28:20,962 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:28:24,157 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:28:24,161 ERROR [Log] scroll_Down()FAILED with cause : Argument is of an illegal type: org.openqa.selenium.By$ByXPath 
+2021-12-31 20:28:27,367 INFO  [Log] show_More()PASSED 
+2021-12-31 20:28:32,237 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:28:35,476 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:28:40,703 ERROR [Log] go_to_cart()FAILED with cause : Count of product is not two in the cart ==> expected: <true> but was: <false> 
+2021-12-31 20:29:40,546 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 20:29:43,745 INFO  [Log] search_a_product()PASSED 
+2021-12-31 20:29:46,769 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 20:29:49,931 INFO  [Log] show_More()PASSED 
+2021-12-31 20:29:54,617 INFO  [Log] select_a_product()PASSED 
+2021-12-31 20:29:57,926 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 20:30:02,830 ERROR [Log] go_to_cart()FAILED with cause : Count of product is not two in the cart ==> expected: <true> but was: <false> 
+2021-12-31 22:10:47,760 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 22:10:50,990 INFO  [Log] search_a_product()PASSED 
+2021-12-31 22:10:54,052 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 22:10:57,348 INFO  [Log] show_More()PASSED 
+2021-12-31 22:11:02,374 INFO  [Log] select_a_product()PASSED 
+2021-12-31 22:11:05,619 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 22:11:13,203 INFO  [Log] go_to_cart()PASSED 
+2021-12-31 22:16:48,140 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 22:16:51,416 INFO  [Log] search_a_product()PASSED 
+2021-12-31 22:16:54,515 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 22:16:57,647 INFO  [Log] show_More()PASSED 
+2021-12-31 22:17:02,405 INFO  [Log] select_a_product()PASSED 
+2021-12-31 22:17:05,685 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 22:17:08,449 ERROR [Log] go_to_cart()FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='m-productPrice__salePrice']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0R3BPV3', ip: '192.168.1.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\gamze\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 28b39e164bbc892e3ebe4f11292f4b36
+*** Element info: {Using=xpath, value=//span[@class='m-productPrice__salePrice']} 
+2021-12-31 22:21:26,052 INFO  [Log] control_homePage_account_favorites_cart()PASSED 
+2021-12-31 22:21:29,288 INFO  [Log] search_a_product()PASSED 
+2021-12-31 22:21:32,349 INFO  [Log] scroll_Down()PASSED 
+2021-12-31 22:21:35,530 INFO  [Log] show_More()PASSED 
+2021-12-31 22:21:40,351 INFO  [Log] select_a_product()PASSED 
+2021-12-31 22:21:43,720 INFO  [Log] add_product_to_cart()PASSED 
+2021-12-31 22:21:52,182 INFO  [Log] go_to_cart()PASSED 
