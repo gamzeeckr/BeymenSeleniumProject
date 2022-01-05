@@ -69,14 +69,23 @@ public class Test_Added_Product_ToCart extends BaseTest {
    public void go_to_cart() throws InterruptedException {
         cartPage=new CartPage(driver);
        productDetailPage.goToCart();
-     // Assertions.assertTrue(cartPage.isEqualPrices(),"Product price and cart price did not equals");
+        Assertions.assertEquals(cartPage.productPrice(),cartPage.cartPrice());
         Thread.sleep(3000);
-       cartPage.increase_quantity();
-      // Assertions.assertTrue(cartPage.isIncreaseQuantity(),"Count of product is not two in the cart");
+
+    }
+
+    @Test
+    @Order(8)
+    public void product_count() throws InterruptedException {
+        cartPage.increase_quantity();
+        Assertions.assertTrue(cartPage.isIncreaseQuantity(),"Count of product is not two in the cart");
         Thread.sleep(3000);
-       cartPage.emptyCart();
-       Assertions.assertTrue(cartPage.isEmptyCart(),"Cart is not empty");
+    }
 
-
+    @Test
+    @Order(9)
+    public void empty_cart(){
+        cartPage.emptyCart();
+        Assertions.assertTrue(cartPage.isEmptyCart(),"Cart is not empty");
     }
 }

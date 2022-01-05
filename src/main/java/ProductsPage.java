@@ -24,7 +24,7 @@ public class ProductsPage extends BasePage {
    public void scrollDown(){
        JavascriptExecutor jsx = (JavascriptExecutor)driver;
        jsx.executeScript("window.scrollBy(0,1000)", "");
-       // jsx.executeScript("window.scrollTo(0,document.body.scrollHeight)");
+       // jsx.executeScript("window.scrollTo(0,document.body.scrollLocator)");
 
       // jsx.executeScript("arguments[0].scrollIntoView();",scrollLocator);
 
